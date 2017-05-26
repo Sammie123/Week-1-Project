@@ -6,3 +6,29 @@
 .lincoln {
   color: maroon;
 }
+
+body {
+  font-family:glyphs;
+  font-weight: bold;
+}
+
+opening {
+  text-align: center;
+}
+
+h1 {
+  font-size: 60px;
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+}
+
+p.opening {
+  text-align: center;
+}
+
+.panel-title {
+  font-size: 30px;
+}
